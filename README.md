@@ -1,8 +1,8 @@
-## Bu proje Code Commerce YT kanalında yer alan video ile yapılmıştır. (https://youtu.be/l5gP3a--NpA?si=hVsjOPq6rcwUY-h_)
-## Proje de React.JS ve TailwindCSS kullanılmıştır.
+### Bu proje Code Commerce YT kanalında yer alan video ile yapılmıştır. (https://youtu.be/l5gP3a--NpA?si=hVsjOPq6rcwUY-h_)
+### Proje de React.JS ve TailwindCSS kullanılmıştır.
 
-## This project was made with the video on Code Commerce YT channel.(https://youtu.be/l5gP3a--NpA?si=hVsjOPq6rcwUY-h_)
-## React.JS and TailwindCSS were used in the project.
+### This project was made with the video on Code Commerce YT channel.(https://youtu.be/l5gP3a--NpA?si=hVsjOPq6rcwUY-h_)
+### React.JS and TailwindCSS were used in the project.
 
 
 # Getting Started with Create React App
